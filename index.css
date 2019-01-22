@@ -1,0 +1,31 @@
+/* global */
+body {
+    background-color:lightblue;
+}
+
+.container {
+    width:80%;
+}
+
+/* header */
+h1 {
+    float:left;
+    text-align: center;
+    color: black;
+}
+header {
+    border: 10px, solid, black;
+    background: grey;
+}
+header a{
+    color: white;
+    font-size: 15px;
+    float:right;
+}
+nav{
+    display:inline;
+}
+#showcase {
+    color: white;
+    font-size:15px;
+}
